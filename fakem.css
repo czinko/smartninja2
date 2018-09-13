@@ -1,0 +1,52 @@
+.fejlec {
+    color:  #9494b8;
+    background-color: #000066;
+    height: 40px;
+    width: auto;
+    text-align: center;
+    letter-spacing: 10px ;
+
+}
+.fejlec2 {
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.search {
+  background-color:  #9494b8;
+  color: #000066;
+  /* margin: 5555px;
+  height: 0px; */
+  display:run-in;
+}
+#main {
+    background-color: #000066;
+    width: auto;
+    margin: auto;
+
+}
+.info {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    height: 90%;
+    background-color: #9494b8;
+
+}
+
+.link1 {
+    background-color: red;
+   position: relative;
+   width: 300px;
+    height: 50px;
+}
+.link2 {
+    position: relative;
+    top: -20px;
+    left: 20px;
+    background-color: green;
+    width: 200px;
+    height: 50px;
+}
